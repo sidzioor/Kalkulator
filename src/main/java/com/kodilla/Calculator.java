@@ -12,6 +12,5 @@ public class Calculator {
         Calculator calculator = new Calculator();
         calculator.adding(14, 16);
         calculator.substraction(32, 14);
-        System.out.println(" .");
     }
 }
